@@ -11,8 +11,9 @@ Clicking on Subject: will prepend Re: to the subject.<BR>
 A MessageID must only be in the form of <<0cf9375136b.1744052792@gtcgo.pn>>.<BR>
 The X-Hashcash is automatically generated.<BR>
 The small > button above the number 1 in the column number line will<BR>automatically insert > into the message.<BR>
-Check 'code only' to generate the Mini Mail code to  manually send with a terminal.
-
-This is a very basic beginning program.  Check back for improvement updates.
-
-To download, click on this link: https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailer.zip
+Check 'code only' to generate the Mini Mail code to  manually send with a terminal.<BR>
+<BR>
+This is a very basic beginning program.  Check back for improvement updates.<BR>
+<BR>
+To download, click on this link: https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailer.zip<BR>
+and then press: Ctrl + Shift + S.<BR>
