@@ -15,4 +15,4 @@ Check 'code only' to generate the Mini Mail code to  manually send with a termin
 
 This is a very basic beginning program.  Check back for improvement updates.
 
-
+To download, click on this link: https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailer.zip
