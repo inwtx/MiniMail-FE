@@ -1,5 +1,5 @@
 # MiniMail-FE
-![image](https://github.com/user-attachments/assets/1022fe18-1ab9-4bd0-9a16-0707d8dae1c7)
+![image](https://github.com/user-attachments/assets/3d70e2f1-ce9f-4543-a79c-786b4a1dd807)
 
 MiniMail-FE is a GUI front end for Mini Mailer.  Mini Mailer was written by Stefan Claas.<BR>
 <BR>
@@ -14,8 +14,10 @@ It sends post to news groups through Tor.  It does not use remailers.<BR>
 &nbsp;&nbsp;&nbsp;automatically insert > into the message.<BR>
 • Check 'code only' to generate the Mini Mail code to manually send with Mini Mail<BR>
 &nbsp;&nbsp;&nbsp;in a terminal.<BR>
+• Click on the Help button on the GUI for complete instructions.
 <BR>
-This is a very basic beginning program.  Check back for improvement updates.<BR>
+<BR>
+Check back for any improvement updates.<BR>
 <BR>
 To download, click on this link: https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailer.zip<BR>
 and then press: Ctrl + Shift + S.<BR>
