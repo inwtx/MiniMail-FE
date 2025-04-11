@@ -1,7 +1,7 @@
 # MiniMail-FE (BETA)
 ![image](https://github.com/user-attachments/assets/1022fe18-1ab9-4bd0-9a16-0707d8dae1c7)
 
-MiniMail-FE is a GUI front end for Mini Mailer.  Mini Mailer was written by Stefan.<BR>
+MiniMail-FE is a GUI front end for Mini Mailer.  Mini Mailer was written by Stefan Claas.<BR>
 <BR>
 MiniMail-FE is a shell program that runs the Mini Mailer programs.<BR>
 It sends post to news groups through Tor.  It does not use remailers.<BR>
