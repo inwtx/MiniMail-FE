@@ -12,8 +12,8 @@ It sends post to news groups through Tor.  It does not use remailers.<BR>
 • The X-Hashcash is automatically generated.<BR>
 • The small > button above the number 1 in the column number line will<BR>
 &nbsp;&nbsp;&nbsp;automatically insert > into the message.<BR>
-• Check 'code only' to generate the Mini Mail code to manually send with Mini Mail<BR>
-&nbsp;&nbsp;&nbsp;in a terminal.<BR>
+• Check 'code only' to generate the Mini Mailer code to manually send with<BR>
+&nbsp;&nbsp;&nbsp;Mini Mailer in a terminal.<BR>
 • Click on the Help button on the GUI for complete instructions.
 <BR>
 <BR>
