@@ -1,6 +1,5 @@
 # MiniMail-FE
-![image](https://github.com/user-attachments/assets/eba7cac3-2212-451c-9712-d918ad66fa06)
-
+![image](https://github.com/user-attachments/assets/aeab840c-5f8a-4133-9db4-1afb82eef74a)
 
 MiniMail-FE is a GUI front end for Mini Mailer.  Mini Mailer was written by Stefan Claas.<BR>
 <BR>
