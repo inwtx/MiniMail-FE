@@ -21,6 +21,7 @@ It sends post to news groups through Tor.  It does not use remailers.<BR>
 <BR>
 Check back for any improvement updates.<BR>
 <BR>
-To download, click on this link: https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailerTOR.zip
+You can click the (Latest) button on the right side of this page to download or<BR>
+click on this link: https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailerTOR.zip
 <BR>
 and then press: 'Ctrl + Shift + S' or click the ... button to the far right of the zip file.<BR>
