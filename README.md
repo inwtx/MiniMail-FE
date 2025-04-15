@@ -6,7 +6,7 @@ MiniMail-FE is a GUI front end for Mini Mailer.  Mini Mailer was written by Stef
 MiniMail-FE is a shell program that runs the Mini Mailer programs.<BR>
 It sends post to news groups through Tor.  It does not use remailers.<BR>
 <BR>
-• The grayed fields are not required. Red fields are currently fixed. Right<BR>
+• The grayed fields are not required. Red fields are currently fixed.<BR>
 • Click on Subject: to prepend Re: to the subject. Right click for a menu with<BR>
 &nbsp;&nbsp;&nbsp;previous Subject:s.<BR>
 • Right click on MessageID: for a menu with previous MessageID:s.<BR>
