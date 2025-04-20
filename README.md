@@ -26,4 +26,4 @@ https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailerTOR.zip<BR>
 or<BR>
 https://github.com/inwtx/MiniMail-FE/blob/main/MiniMailerNYM.zip<BR>
 and then press: 'Ctrl + Shift + S' or click the ... button to the far right of the<BR>
-zip file to download.
+zip file to download.  (Note: It may take a bit of time for the Save box to appear.)
