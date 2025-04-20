@@ -7,9 +7,8 @@ MiniMail-FE is a shell program that runs the Mini Mailer programs.<BR>
 It sends post to news groups through Tor.  It does not use remailers.<BR>
 <BR>
 • The grayed fields are not required. Red fields are currently fixed.<BR>
-• Click on Subject: to prepend Re: to the subject. Right click for a menu with<BR>
-&nbsp;&nbsp;&nbsp;previous Subject:s.<BR>
-• Right click on MessageID: for a menu with previous MessageID:s.<BR>
+• Click on Subject: to prepend Re: to the subject.<BR>
+• Right click on From: and Nrewgroups: for a menu of chosen entries.<BR>
 &nbsp;&nbsp;&nbsp;A MessageID must only be in the form of <<0cf9375136b.1744052792@gtcgo.pn>>.<BR>
 • The X-Hashcash is automatically generated.<BR>
 • The small > button above the number 1 in the column number line will<BR>
